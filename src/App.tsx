@@ -18,6 +18,7 @@ const timerPrecision: number = 1; //in ms
 // };
 
 <div>idk</div>;
+<div>idk idk</div>;
 
 const App = () => {
 	const [timer, setTimer] = useState<number>(0);
